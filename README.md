@@ -1,6 +1,9 @@
-# ReservationApp
+# Reactive Application Demo - client side
+
+This is the client side of the Reactive application demo implemented by using Angular. To see server side, please go to [reactive-spring-demo](https://github.com/henrywangsk/reactive-spring-demo).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+
 
 ## Development server
 
